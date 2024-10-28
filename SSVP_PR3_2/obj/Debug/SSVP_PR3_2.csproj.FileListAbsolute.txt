@@ -1,0 +1,10 @@
+B:\ИФСТ-21\практика\Купцов\SSVP_PR3_2\bin\Debug\SSVP_PR3_2.exe.config
+B:\ИФСТ-21\практика\Купцов\SSVP_PR3_2\bin\Debug\SSVP_PR3_2.exe
+B:\ИФСТ-21\практика\Купцов\SSVP_PR3_2\bin\Debug\SSVP_PR3_2.pdb
+B:\ИФСТ-21\практика\Купцов\SSVP_PR3_2\obj\Debug\SSVP_PR3_2.csprojAssemblyReference.cache
+B:\ИФСТ-21\практика\Купцов\SSVP_PR3_2\obj\Debug\SSVP_PR3_2.Form1.resources
+B:\ИФСТ-21\практика\Купцов\SSVP_PR3_2\obj\Debug\SSVP_PR3_2.Properties.Resources.resources
+B:\ИФСТ-21\практика\Купцов\SSVP_PR3_2\obj\Debug\SSVP_PR3_2.csproj.GenerateResource.cache
+B:\ИФСТ-21\практика\Купцов\SSVP_PR3_2\obj\Debug\SSVP_PR3_2.csproj.CoreCompileInputs.cache
+B:\ИФСТ-21\практика\Купцов\SSVP_PR3_2\obj\Debug\SSVP_PR3_2.exe
+B:\ИФСТ-21\практика\Купцов\SSVP_PR3_2\obj\Debug\SSVP_PR3_2.pdb
